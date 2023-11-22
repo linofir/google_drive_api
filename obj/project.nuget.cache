@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESFmox7Qcd7C3HYazLp84/+iRIgtazYxq9bbDMJfVCHlqw2NtFZ14hD2oUlihtmMpbIQT1kBVdb+unQyToqC2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lino\\Projetos_Programação\\google_drive_api\\google_drive_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lino\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
+    "C:\\Users\\lino\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
+    "C:\\Users\\lino\\.nuget\\packages\\google.apis.core\\1.64.0\\google.apis.core.1.64.0.nupkg.sha512",
+    "C:\\Users\\lino\\.nuget\\packages\\google.apis.discovery.v1\\1.64.0\\google.apis.discovery.v1.1.64.0.nupkg.sha512",
+    "C:\\Users\\lino\\.nuget\\packages\\google.apis.drive.v3\\1.64.0.3155\\google.apis.drive.v3.1.64.0.3155.nupkg.sha512",
+    "C:\\Users\\lino\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lino\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\lino\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

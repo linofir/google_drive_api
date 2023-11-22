@@ -1,0 +1,28 @@
+clientID = "832327939706-uc29rvv57u5usq9180u5vctpt0reomsc.apps.googleusercontent.com"
+clientSecret = "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"
+
+POST /token HTTP/1.1
+Host: oauth2.googleapis.com
+Content-length: 180
+content-type: application/x-www-form-urlencoded
+user-agent: google-oauth-playground
+client_secret=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&grant_type=refresh_token&refresh_token=driveapi&client_id=832327939706-uc29rvv57u5usq9180u5vctpt0reomsc.apps.googleusercontent.com
+HTTP/1.1 400 Bad Request
+Content-length: 68
+X-xss-protection: 0
+X-content-type-options: nosniff
+Transfer-encoding: chunked
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Vary: Origin, X-Origin, Referer
+Server: scaffolding on HTTPServer2
+-content-encoding: gzip
+Pragma: no-cache
+Cache-control: no-cache, no-store, max-age=0, must-revalidate
+Date: Thu, 16 Nov 2023 16:00:15 GMT
+X-frame-options: SAMEORIGIN
+Alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Content-type: application/json; charset=utf-8
+{
+  "error_description": "Bad Request", 
+  "error": "invalid_grant"
+}
